@@ -7,6 +7,7 @@ USAGE:<br>
          	where default bar_length= 65<br>
   
   example: <br>
+      
       from code.py import progress
       import time
       
