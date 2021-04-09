@@ -1,10 +1,13 @@
 # python3_simple reusable codes
 
 ############# Progress Bar ####################<br>
+
 -To show progress of current process.<br>
-USAGE:<br>
-  syntax: progress(current, total, bar_length)<br>
-         	where default bar_length= 65<br>
+
+
+syntax: progress(current, total, bar_length)<br>
+
+where default bar_length= 65<br>
   
   example: <br>
       
