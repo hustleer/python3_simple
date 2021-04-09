@@ -7,5 +7,9 @@ USAGE:<br>
          	where default bar_length= 65<br>
   
   example: <br>
-    
-        [progress(i,100,20) for i in range(1,100)]
+      from code.py import progress
+      import time
+      
+      for i in range(1,100):
+          progress(i,100)
+          time.sleep(1)
