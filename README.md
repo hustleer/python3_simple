@@ -1,6 +1,6 @@
-# python3_utilities reusable codes
+#python3_utilities: Simple python reusable codes
 
-############# Progress Bar ####################<br>
+1.############# Progress Bar ####################<br>
 
 -To show progress of current process.<br>
 
